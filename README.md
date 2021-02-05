@@ -47,25 +47,25 @@
 ## Document
 
 1. 기능 정의서
-<img width="600" alt="요구사항 명세서" src="https://user-images.githubusercontent.com/66562887/107018344-aa758e00-67e3-11eb-9934-9035bb1ef5ab.png">
+<img width="1200" alt="요구사항 명세서" src="https://user-images.githubusercontent.com/66562887/107018344-aa758e00-67e3-11eb-9934-9035bb1ef5ab.png">
 2. UseCase
-<img width="600" alt="usecase_diagram1" src="https://user-images.githubusercontent.com/66562887/107018386-b5c8b980-67e3-11eb-89c8-c319df34e618.png">
-<img width="600" alt="usecase_diagram2" src="https://user-images.githubusercontent.com/66562887/107018398-ba8d6d80-67e3-11eb-8a85-d1abb45bd099.png">
+<img width="1200" alt="usecase_diagram1" src="https://user-images.githubusercontent.com/66562887/107018386-b5c8b980-67e3-11eb-89c8-c319df34e618.png">
+<img width="1200" alt="usecase_diagram2" src="https://user-images.githubusercontent.com/66562887/107018398-ba8d6d80-67e3-11eb-8a85-d1abb45bd099.png">
 
 3. UI
-<img width="600" alt="UI설계" src="https://user-images.githubusercontent.com/66562887/107018430-c37e3f00-67e3-11eb-8c84-d622d4945fbc.png">
+<img width="1200" alt="UI설계" src="https://user-images.githubusercontent.com/66562887/107018430-c37e3f00-67e3-11eb-8c84-d622d4945fbc.png">
 
 4. ERD
-<img width="600" alt="erd" src="https://user-images.githubusercontent.com/66562887/107018448-ca0cb680-67e3-11eb-98b0-bb5bb6d25163.png">
+<img width="1200" alt="erd" src="https://user-images.githubusercontent.com/66562887/107018448-ca0cb680-67e3-11eb-98b0-bb5bb6d25163.png">
 
 5. Table Description
-<img width="600" alt="테이블 정의서" src="https://user-images.githubusercontent.com/66562887/107018576-f4f70a80-67e3-11eb-8016-a753bf10144d.png">
+<img width="1200" alt="테이블 정의서" src="https://user-images.githubusercontent.com/66562887/107018576-f4f70a80-67e3-11eb-8016-a753bf10144d.png">
 
 6. Class Diagram
-<img width="600" alt="클래스 다이어그램" src="https://user-images.githubusercontent.com/66562887/107018611-0213f980-67e4-11eb-809e-14adfe96cf3d.png">
+<img width="1200" alt="클래스 다이어그램" src="https://user-images.githubusercontent.com/66562887/107018611-0213f980-67e4-11eb-809e-14adfe96cf3d.png">
 
 7. Sequence Diagram
-<img width="600" alt="시퀀스 다이어그램" src="https://user-images.githubusercontent.com/66562887/107018638-093b0780-67e4-11eb-8a81-36be6fe4dd08.png">
+<img width="1200" alt="시퀀스 다이어그램" src="https://user-images.githubusercontent.com/66562887/107018638-093b0780-67e4-11eb-8a81-36be6fe4dd08.png">
 
 
 
