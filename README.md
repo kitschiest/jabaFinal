@@ -1,5 +1,7 @@
-# 잡아(JABA)
-내 손 안의 매장
+# 내 손 안의 카페, 잡아(JABA)
+<img width="1269" alt="Jaba_main" src="https://user-images.githubusercontent.com/66562887/106995536-76d63c00-67c2-11eb-83f6-2f13fa9a03bf.png">
+## Test Video
+Youtube: https://youtu.be/HZJ_ZFwd6DA
 ## 개요
 Safe, secure and simple <br>
 Ordering at your fingertips
