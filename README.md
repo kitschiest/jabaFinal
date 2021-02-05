@@ -1,7 +1,9 @@
 # 내 손 안의 카페, 잡아(JABA)
-<img width="1269" alt="Jaba_main" src="https://user-images.githubusercontent.com/66562887/106995536-76d63c00-67c2-11eb-83f6-2f13fa9a03bf.png">
+<img width="1269" alt="Jaba_main" src="https://user-images.githubusercontent.com/66562887/106995536-76d63c00-67c2-11eb-83f6-2f13fa9a03bf.png"></img>
 ## Test Video
-* Youtube: https://youtu.be/HZJ_ZFwd6DA
+* Youtube: 
+[**Presentation**](https://youtu.be/HZJ_ZFwd6DA) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=DFRlnNcDH-Q)](https://youtu.be/HZJ_ZFwd6DA)
+
 ## 개요
 Safe, secure and simple <br>
 Ordering at your fingertips
